@@ -93,17 +93,10 @@ nav {
 
 .content2 {
     margin-top: 10px;
+    height: 600px;
     background-color: white;
 }
 
-.gettingStarted {
-    margin-left: 100px;
-    margin-top: 20px;
-    display: inline-block;
-    width: 30%;
-    text-align: center;
-    vertical-align: top;
-}
 
 .application {
     display: inline-block;
