@@ -1,0 +1,148 @@
+p {
+  font-family: Lato;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.wrapper {
+    width: 100%;
+    height: 700px;
+    background-color: #1f647a;
+}
+
+.header {
+    width: 100%;
+    height: 100px;
+}
+
+.search_box {
+    width: 69%;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.picture {
+    width: 30%;
+    display: inline-block;
+}
+
+.form {
+    height: 50px;
+    padding: 5px;
+    vertical-align: center;
+    text-align: right;
+}
+
+#search {
+    background-color: white;
+}
+
+.button {
+    width: 25px;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+
+.text {
+    height: 50px;
+    padding: 5px;
+    text-align: right;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    background-color: teal;
+    width: 60%;
+    margin-left: 200px;
+}
+
+nav {
+    background-color: #12adc2;
+    text-align: center;
+    padding: 5px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.navi-list {
+    width: 20%;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.content {
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.content p.a {
+    font-style: italic;
+    color: yellow;
+}
+
+.content2 {
+    margin-top: 10px;
+    background-color: white;
+}
+
+.gettingStarted {
+    margin-left: 100px;
+    margin-top: 20px;
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    vertical-align: top;
+}
+
+.application {
+    display: inline-block;
+    margin-top: 20px;
+    width: 30%;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.list {
+    text-align: center;
+    color: #3391cf;
+}
+
+.footer {
+    color: white;
+    background-color: #1f647a;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.footer p:nth-child(1) {
+    width: 25%;
+    height: 40x;
+    display: inline-block;
+}
+
+.footer p:nth-child(2) {
+    width: 25%;
+    height: 40px;
+    display: inline-block;
+}
+
+.footer p:nth-child(3) {
+    width: 25%;
+    height: 40px;
+    display: inline-block;
+}
+
+.footer p:nth-child(4) {
+    font-size: 8pt;
+}
